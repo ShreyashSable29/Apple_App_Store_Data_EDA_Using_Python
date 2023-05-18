@@ -8,4 +8,5 @@ This project shows the Exploratory Data Analysis of the Apple Store Apps Data wh
 ## Link to the DataSet :
 https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
 
-"C:\Users\lenovo\Desktop\1_BzlwfllhYm72B4j60jS5wg@2x.webp"
+![image](https://github.com/ShreyashSable29/Apple_App_Store_Data_EDA_Using_Python/assets/125114741/c7fed300-daa6-4a69-b8df-25d6b8e94bf2)
+
